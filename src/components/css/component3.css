@@ -1,0 +1,28 @@
+.Component3{
+    box-sizing: border-box;
+    display: flex;
+   width: 80vw;
+   margin: 0 auto;
+}
+
+ table,th,td,tr,caption{
+border: 0.01rem solid  rgba(0, 0, 0, 0.452);
+border-spacing: 0;
+
+}
+.Component3 table{
+    width:10rem;
+}
+.Component3 th{
+    padding:0 3rem ;
+}
+.Component3 td{
+    text-align: center;
+    padding: 0 1rem;
+}
+.Component3 table>caption{
+    padding: 1rem;
+    color: orange;
+    background-color: rgba(0, 0, 0, 0.9);
+
+}
