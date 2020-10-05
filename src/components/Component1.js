@@ -1,11 +1,11 @@
 import React from 'react';
-
+import './css/component1.css';
 
 function Component1(){
     return (
-        <div>
+        <div className="component1">
             <h1>Pre-MEST Cohort-2</h1>
-            <h6>This is my component...</h6>
+            <h6>Component 1...</h6>
         </div>
     );
 

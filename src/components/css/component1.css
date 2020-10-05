@@ -1,0 +1,15 @@
+.component1{
+    padding: 20px;
+    display: block;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    
+    
+    
+}
+
+.component1 h1{
+    font-style: normal;
+    text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+.component2{
+    width: 30rem;
+    display: block;
+    object-fit: cover;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    padding: 2rem;
+    justify-content: center;
+    text-align: center;
+   
+
+}
+
+.component2 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
