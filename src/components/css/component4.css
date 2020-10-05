@@ -1,0 +1,27 @@
+.Component4{
+    width: 20rem;
+    /* height: 30vh; */
+    /* border: 1px solid red; */
+    display: block;
+    margin: 5rem auto;
+    /* align-items: center; */
+
+}
+.Component4 h4{
+    text-align: center;
+}
+.Component4 .count{
+   text-align: center;
+   color: rgba(0, 0, 0);
+   font-size: 10rem;
+}
+
+.Component4 button{
+    display: block;
+    margin: 1rem auto;
+    border: 1px solid grey;
+    border-radius: 12px;
+    padding:3px 1rem;
+    font-size: 2rem;
+
+}

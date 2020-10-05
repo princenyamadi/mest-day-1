@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/component1.css';
-
+// Creating a component
 function Component1(){
     return (
         <div className="component1">
@@ -11,4 +11,4 @@ function Component1(){
 
 }
 
-export default Component1
+export default Component1;
