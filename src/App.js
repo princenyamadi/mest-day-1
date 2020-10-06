@@ -10,6 +10,7 @@ import Component5 from './components/Component5';
 import Component6 from './components/Component6';
 import Component7 from './components/Component7';
 import Component8 from './components/Component8';
+import Component9 from './components/Component9';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <Component6/>
       <Component7/>
       <Component8 />
+      <Component9 />
       
     </div>
     // <div className="App">

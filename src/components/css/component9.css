@@ -1,0 +1,21 @@
+.Component9{
+    margin: 4rem auto;
+    width: 96vw;
+    text-align: center;
+}
+
+.Component9 h1{
+    font-size: 5rem;
+    color: rebeccapurple;
+
+
+}
+
+.Component9 input{
+    padding: 1rem 9rem;
+}
+
+.Component9 button{
+    padding: 1rem;
+    margin-left: 10px;
+}
