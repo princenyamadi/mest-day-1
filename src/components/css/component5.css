@@ -1,0 +1,30 @@
+.Component5{
+    width: 100vw;
+    text-align: center;
+}
+
+.Component5 .imglist{
+
+
+}
+
+.Component5 .imglist ul{
+    display: block;
+
+}
+.Component5 .imglist ul li{
+    
+    display: inline-block;
+    object-fit: cover;
+    
+    overflow: hidden;
+    
+}
+.Component5 .imglist ul li img{
+    width: 25rem;
+    object-fit: cover;
+    margin: 0.5rem;
+    height: 20rem;
+    border-radius: 13px;
+    box-shadow: 3px 4px 9px grey;
+}
