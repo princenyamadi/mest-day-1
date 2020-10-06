@@ -11,6 +11,7 @@ import Component6 from './components/Component6';
 import Component7 from './components/Component7';
 import Component8 from './components/Component8';
 import Component9 from './components/Component9';
+import Component10 from './components/Component10';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
       <Component7/>
       <Component8 />
       <Component9 />
+      <Component10 />
       
     </div>
     // <div className="App">
